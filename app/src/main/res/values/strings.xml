@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cricket Score App</string>
+    <string name="FirstTeam">Team One Batting score</string>
+    <string name="SecondTeam">Team Two Batting score</string>
+    <string name="score">Score</string>
+    <string name="defaultScore">0</string>
+    <string name="defaultWicket">0</string>
+    <string name="targetString">Your Target Is : </string>
+    <string name="winnerMsg">Thank You For Choosing us :) </string>
+
+    <string name="endGameButton">End Game &amp; Declare The Result !</string>
+    <string name="resetButton">Reset Scores to 0</string>
+    <string name="outButton">Out</string>
+    <string name="endFirstInning">End First Inning Scoring !</string>
+
+    <!--    Adding Score Button Names    -->
+    <string name="addScore1">1</string>
+    <string name="addScore2">2</string>
+    <string name="addScore3">3</string>
+    <string name="addScore4">4</string>
+    <string name="addScore6">6</string>
+    <string name="addScoreWide">Wide</string>
+    <string name="addScoreNoBall">No Ball</string>
+</resources>
